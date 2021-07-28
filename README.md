@@ -1,4 +1,4 @@
-![screenshot](https://github.com/alexsophiekim/React-color-picker/blob/main/src/color-picker.png);
+![screenshot]('https://github.com/alexsophiekim/React-color-picker/blob/main/public/color-picker.png');
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
